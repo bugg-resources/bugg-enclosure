@@ -1,3 +1,5 @@
+![cc-by-nc-sa-shield](https://img.shields.io/badge/License-CC%20BY--NC--SA%204.0-lightgrey.svg)
+
 # bugg-enclosure
 
 This repository contains the FreeCAD source files for the full mechanical assembly of the Bugg recording device. This includes the custom injection moulded inclosure, as well as all connectors, fasteners, etc. used.
